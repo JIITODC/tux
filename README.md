@@ -5,7 +5,7 @@ All willing students are invited to participate according to their wish. Detaile
 
 # Welcome to TUX Art...
 You are required to create a design hand-drawn, flex, or on any software by just inhancing the image of linux TUX.
-That could be a funny way, impressive way or ugly way if we like it we will accept it. Now it's time to show your creativety, run your sharp minds to create a newer and funnier version of TUX. Let's begin, below is given an image just for reference.
+That could be a funny way, impressive way or ugly way we will accept it. Now it's time to show your creativety, run your sharp minds to create a newer and funnier version of TUX. Let's begin, below is given an image just for reference.
 
 ![tux example](https://github.com/JIITODC/tux/blob/main/ss.png)
 
